@@ -6,4 +6,5 @@ functions:
   spacepeeps:
     lang: node
     handler: ./spacepeeps
-    image: spacepeeps
+    image: spacepeeps:latest
+

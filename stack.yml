@@ -2,7 +2,7 @@ provider:
   name: faas
   gateway: http://localhost:8080
 
-# Note about the functions
+# Note about the functions (Alex)
 functions:
   spacepeeps:
     lang: node
